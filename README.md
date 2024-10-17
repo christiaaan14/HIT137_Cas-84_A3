@@ -5,4 +5,5 @@ Libraries to download: (Install the mentioned libraries within the terminal of V
   - Question 2_Game: pip install pygame
 
 This Github Repository is responsible for all aspects in relation with HIT137 (assignment 3).
+
 Group 84: Christian Mendoza, Sujan Thapa, Krishna Shrestha, Roshna Roka
